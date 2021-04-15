@@ -2,7 +2,7 @@
 title:               'Today I Learned'
 tagline:             'Notes to self about software development'
 description:         ''
-url:                 https://narekgalustyan.github.io/
+url:                 https://narek-booth.github.io/
 baseurl:             'til/'
 paginate:            5
 permalink:           pretty
